@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Flan": {
+    "dataSource": "mongo",
+    "public": true
   }
 }
