@@ -17,5 +17,8 @@
   "validations": [],
   "relations": {},
   "acls": [],
-  "methods": {}
+  "methods": {},
+  "mixins":{
+    "Essentials":{}
+  }
 }
