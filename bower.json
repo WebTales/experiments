@@ -1,0 +1,8 @@
+{
+  "name": "experiments",
+  "description": "experiments",
+  "moduleType": [],
+  "dependencies": {
+    "angular": "1.5.0"
+  }
+}
