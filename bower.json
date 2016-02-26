@@ -1,9 +1,0 @@
-{
-  "name": "experiments",
-  "description": "experiments",
-  "moduleType": [],
-  "dependencies": {
-    "bootstrap": "^3.3.6",
-    "angular2-build": "^2.0.0-alpha.34"
-  }
-}
